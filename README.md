@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sahil Gomes</h1>
-<p align="center">A passionate developer from India</p>
+<h1>About me</h1>
+<p>Hi 👋, I'm Sahil Gomes</p>
+<p>A passionate Engineer/Developer from <b>India</b></p>
 
-<h3 align="left">My porfolio:https://sahilgomes.github.io/portfolio/</h3>
-<h3 align="left">Connect with me:https://www.linkedin.com/in/sahilgomes2003/</h3>
+- My porfolio: **<br>https://sahilgomes.github.io/portfolio/</br>**
+- Connect with me: **<br>https://www.linkedin.com/in/sahilgomes2003/</br>**
 
-- 🌱 I’m currently learning **Golang deep dive with Test driven development by reading "Learn-go-with-test"**
+- 🌱 I’m currently learning: **<br>Golang deep dive with Test driven development by reading "Learn-go-with-test"</br>**
 
-- 💬 Ask me about **Web, Network, Internt**
+- 💬 Ask me about: <br>**Computer Networks, Golang, Javascript and its Ecosystem and any other general software development & design related questions**</br>
