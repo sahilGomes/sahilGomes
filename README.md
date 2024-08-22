@@ -10,4 +10,4 @@
 
 💬 **Ask me about:** <br> - Computer Networks, Golang, Javascript and its Ecosystem and any other general software development & design related questions</br>
 
-⚡ **Fun fact:**  <br> - I am slowly becoming a gopher</br>
+⚡ **Fun fact:**  <br> - Slowly becoming a gopher</br>
